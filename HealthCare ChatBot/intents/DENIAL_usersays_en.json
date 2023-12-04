@@ -1,0 +1,67 @@
+[
+  {
+    "id": "d9a4727a-b9fe-401d-aa99-6508dbd7bb35",
+    "data": [
+      {
+        "text": "no.i am not interested.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f33c7b81-8ce9-4ae3-9df8-ae1fc79a42e2",
+    "data": [
+      {
+        "text": "noooo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47c2ba67-63a1-459d-ae38-82c4b7793b38",
+    "data": [
+      {
+        "text": "not sure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71d74349-aa9b-4761-a75a-343c110b361e",
+    "data": [
+      {
+        "text": "no deal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dfa2748d-dd4a-4123-8200-e5d12520d9bb",
+    "data": [
+      {
+        "text": "No",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  }
+]

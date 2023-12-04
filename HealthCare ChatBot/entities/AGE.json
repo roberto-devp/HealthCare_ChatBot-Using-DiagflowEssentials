@@ -1,0 +1,9 @@
+{
+  "id": "be717a04-be6b-47c2-8798-4f095f2ddb4a",
+  "name": "AGE",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "9bceccd2-bc98-46e8-98aa-1fc29f22e46f",
+  "name": "under_18",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

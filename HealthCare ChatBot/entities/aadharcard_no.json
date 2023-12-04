@@ -1,0 +1,9 @@
+{
+  "id": "0966932f-2a6a-49fe-8bf3-089a9903aa1a",
+  "name": "aadharcard_no",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

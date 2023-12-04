@@ -1,0 +1,9 @@
+{
+  "id": "a52bd7e8-92c0-4230-adc3-1f26473c7475",
+  "name": "AADHAR_CARD",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

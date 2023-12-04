@@ -1,0 +1,35 @@
+{
+  "id": "45521d15-1e65-4d61-8817-a6adcccbf3ee",
+  "name": "APPROVAL",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "That\u0027s Great!! so as per the current situation it is necessary that everyone is vaccinated and make sure we stay healthy and nurturing .Could you please share us your NAME for scheduling an appointment ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
