@@ -40,23 +40,23 @@ The default welcome intent provides a friendly greeting and initiates the conver
 
 The denial intent captures user responses indicating rejection or disapproval. It is crucial for managing user preferences and decisions during the appointment booking process.
 
-6.Female:
+7.Female:
 
 This intent focuses on extracting and managing user-provided gender information when the user identifies as female.
 
-7.Male:
+8.Male:
 
 Similar to the female intent, the male intent manages user-provided gender information but specifically for users identifying as male.
 
-8.Names:
+9.Names:
 
 The names intent is responsible for recognizing and extracting user-provided names. It ensures accurate personalization during the appointment booking process.
 
-9.Times:
+10.Times:
 
 The times intent handles user queries related to appointment scheduling times. It interprets and processes the time preferences specified by the user.
 
-10.Transgender:
+11.Transgender:
 
 This intent is designed to recognize and manage user-provided gender information when the user identifies as transgender. It contributes to the inclusivity of the HealthCare ChatBot.
 
