@@ -35,7 +35,8 @@ When the ChatBot encounters user input that doesn't match any specific intent, t
 5.Default welcome intent:
 
 The default welcome intent provides a friendly greeting and initiates the conversation with users. It sets the tone for a positive and user-friendly interaction.
-denial:
+
+6.Denial:
 
 The denial intent captures user responses indicating rejection or disapproval. It is crucial for managing user preferences and decisions during the appointment booking process.
 
