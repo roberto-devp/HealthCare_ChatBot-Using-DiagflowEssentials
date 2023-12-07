@@ -65,7 +65,7 @@ This intent is designed to recognize and manage user-provided gender information
 When a user interacts with the HealthCare ChatBot, the system uses Natural Language Processing (NLP) to match the user's input (end-user expression) to the most relevant intent. This process, known as intent classification, ensures that the ChatBot understands the user's intention and responds appropriately.
 ![WhatsApp Image 2023-12-04 at 12 47 07_7e8b12ba](https://github.com/ShaikSameehaTabassum/HealthCare_ChatBot-Using-DiagflowEssentials/assets/83460032/02a96465-d748-47c4-8541-e880360a92e8)
 
-#Entities in the HealthCare ChatBot Project:
+# Entities in the HealthCare ChatBot Project:
 
 Entities in the HealthCare ChatBot project are placeholders for important pieces of information extracted from user input. They play a crucial role in capturing specific data such as Aadhar card numbers and user ages. Here are the entities defined in this project:
 
