@@ -89,6 +89,19 @@ The @under_18 entity is used to identify users who are under the age of 18. It i
 
 Entities work hand-in-hand with intents to enhance the understanding of user input. When a user interacts with the HealthCare ChatBot, entities extract specific pieces of information mentioned in the user's input, making it easier to process and respond appropriately.
 ![WhatsApp Image 2023-12-04 at 12 47 40_06ea372e](https://github.com/ShaikSameehaTabassum/HealthCare_ChatBot-Using-DiagflowEssentials/assets/83460032/cb640ba8-d053-4566-8807-43089d86a535)
+
+# HealthCare ChatBot Interface:
+
+Explore the intuitive HealthCare ChatBot interface designed to simplify the COVID-19 vaccination appointment booking process. This user-friendly interface allows individuals to seamlessly interact with the ChatBot, providing essential information for appointment scheduling
+
+# Integration Code:
+
+To integrate the HealthCare ChatBot into your website or application, use the following code snippet:
+
+<iframe width="350" height="430" allow="microphone;" src="http s://console.dialogflow.com/api-client/demo/embedded/522ba424-6 f62-4f6a-a45d-47e376563f60"></iframe>
+
 ![WhatsApp Image 2023-12-04 at 12 50 11_634e13bc](https://github.com/ShaikSameehaTabassum/HealthCare_ChatBot-Using-DiagflowEssentials/assets/83460032/add6bcc3-d20f-402e-9631-48373a4e9eed)
-to see:
+
+# Explore the HealthCare ChatBot Interface Here :
+
 https://bot.dialogflow.com/522ba424-6f62-4f6a-a45d-47e376563f60
